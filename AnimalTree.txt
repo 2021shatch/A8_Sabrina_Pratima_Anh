@@ -1,0 +1,17 @@
+ Is it a mammal?
+Y Does it have hooves?
+N Is it a reptile?
+YY Does it give milk?
+YN Is it a carnivore?
+NY Crocodile
+NN Mosquito
+YYY Cow
+YYN Horse
+YNY Is it in the dog family?
+YNN Does it has a bushy tail?
+YNYY Dog
+YNYN Can swim?
+YNNY squirrel
+YNNN Mouse
+YNYNY Whale
+YNYNN Cat
