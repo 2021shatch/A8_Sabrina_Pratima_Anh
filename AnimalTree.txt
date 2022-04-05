@@ -8,10 +8,6 @@ NN Mosquito
 YYY Cow
 YYN Horse
 YNY Is it in the dog family?
-YNN Does it has a bushy tail?
+YNN Mouse
 YNYY Dog
-YNYN Can swim?
-YNNY squirrel
-YNNN Mouse
-YNYNY Whale
-YNYNN Cat
+YNYN Cat
